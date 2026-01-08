@@ -1,6 +1,7 @@
 # Recipe App (Command Line Version)
 
 This project should allow users to create and mofidy recipes with ignredients, cooking times, and difficulty parameters. 
+All input and output for this app will take place in the command line/powershell. 
 
 
 ## Key Features
